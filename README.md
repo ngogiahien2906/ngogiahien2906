@@ -1,7 +1,5 @@
 ## 👋 About me
-# Hi there 👋
-# I'm currently an Uni Undergrad 😄
-# I aspire to be a Software Engineer in the future 🤖
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alex29062007) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/giahien2906) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ngogiahien2906@gmail.com) 
