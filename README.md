@@ -1,4 +1,4 @@
-##👋 About me
+## 👋 About me
 Hi there 👋
 I'm currently an Uni Undergrad 😄
 I aspire to be a Software Engineer in the future 🤖
